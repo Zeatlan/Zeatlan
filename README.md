@@ -2,7 +2,7 @@
 
 I'm a passionate 22 years old **web developer**. I'm currently working on quite a lot of differents projects and 
 i'm always trying to learn new fun things ! I'm activaly looking for new opportunities, so if you're interested
-do not hesitate to contact me on my 📫 (mail)[mailto:salimalexo@gmail.com]
+do not hesitate to contact me on my 📫 [mail](mailto:salimalexo@gmail.com)
 
 <a href="mailto:salimalexo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
