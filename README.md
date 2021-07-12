@@ -4,7 +4,7 @@ I'm a passionate 22 years old **web developer**. I'm currently working on quite 
 i'm always trying to learn new fun things ! I'm activaly looking for new opportunities, so if you're interested
 do not hesitate to contact me on my 📫 (mail)[mailto:salimalexo@gmail.com]
 
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:salimalexo@gmail.com)
+<a href="mailto:salimalexo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img align="right" alt="GIF Monkey" src="https://media1.tenor.com/images/c0c2264911d8cd4a688acd0542240f95/tenor.gif?itemid=7603564"/>
 
