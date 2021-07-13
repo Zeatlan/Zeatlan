@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="https://faelivrin.fr/portfolio">Alex S.</a></h1>
 <h3 align="center">A passionate Web Developer from France</h3>
 
-I'm 22 years old **web developer**. I'm currently working on quite a lot of differents projects and 
-i'm always trying to learn new fun things ! I'm activaly looking for new opportunities, so if you're interested
+I'm 22 years old **web developer**. I'm currently working on quite a lot of different projects and 
+i'm always trying to learn new fun things ! I'm actively looking for new opportunities, so if you're interested
 do not hesitate to contact me on my 📫 [mail](mailto:salimalexo@gmail.com)
 
 <div align="center"><a href="mailto:salimalexo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
