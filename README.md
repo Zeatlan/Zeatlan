@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="https://faelivrin.fr/portfolio">Alex S.</a></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alex S.</h1>
 <h3 align="center">A passionate Web Developer from France</h3>
 
 I'm 22 years old **web developer**. I'm currently working on quite a lot of different projects and 
