@@ -11,10 +11,10 @@ do not hesitate to contact me on my 📫 [mail](mailto:salimalexo@gmail.com)
 <img align="right" alt="GIF Code" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif" style="border: 2px solid white; border-radius:5px" height="250" width="355"/>
 
 ## 😄 Facts
-- 🔭 I’m currently working on a lot of projects (Checkout my last repositories updates for more infos !)
-- 🌱 I’m currently learning  **Typescript** and mastering **Vue.js**
+- 🔥 I’m currently working on a lot of projects (Checkout my last repositories updates for more infos !)
+- 🧑‍💻 I’m currently learning  **Typescript** and mastering **Vue.js**
 - 💼 If you have any project or opportunity, do reach me by [email](mailto:salimalexo@gmail.com) :D
-- 🤘 **Hobbies** : Programming, Animes & Mangas, learning languages, learning random facts about everything...
+- 💚 **Hobbies** : Programming, Animes & Mangas, learning languages, learning random facts about everything...
 
 <br>
 
@@ -41,3 +41,5 @@ do not hesitate to contact me on my 📫 [mail](mailto:salimalexo@gmail.com)
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma"></code>
 <code><img height="30" src="https://findicons.com/files/icons/1007/crystal_like/256/blender.png" title="Blender"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" title="Git"></code>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zeatlan&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
