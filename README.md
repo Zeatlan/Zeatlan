@@ -31,3 +31,10 @@ I'm 24 years old **web developer**. I love programming and developing new projec
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" title="Unity"></code>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zeatlan&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+### If you are bored...
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zeatlan/Zeatlan/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zeatlan/Zeatlan/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Zeatlan/Zeatlan/blob/output/github-snake.svg" />
+</picture>
