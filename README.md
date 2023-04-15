@@ -9,7 +9,7 @@ I'm 24 years old **web developer**. I love programming and developing new projec
 <img align="right" alt="GIF Code" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif" style="border: 2px solid white; border-radius:5px" height="250" width="355"/>
 
 ## 😄 Facts
-- 🔥 I’m currently working on Il Gusto del Mondo website / RDHA platform registration and some personnal projects
+- 🔥 I’m currently working on Il Gusto del Mondo website and some personnal projects
 - 🧑‍💻 I’m currently learning  **NestJS** and mastering **Vue.js**
 - 💼 If you have any project or ideas, do reach me by [email](mailto:salimalexo@gmail.com) :D
 - 💚 **Hobbies** : Programming, Animes & Mangas, learning languages, learning random facts about everything...
