@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alex S.</h1>
 <h3 align="center">A passionate Web Developer from France</h3>
 
-I'm 24 years old **web developer**. I love programming and developing new projects. If you have some awesome challenges or projects, feel free to contact me by 📫 [mail](mailto:salimalexo@gmail.com)
+I'm a passionate **web developer**. I love programming and developing new projects. If you have some awesome challenges or projects, feel free to contact me by 📫 [mail](mailto:salimalexo@gmail.com)
 
 <div align="center"><a href="mailto:salimalexo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
 
