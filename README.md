@@ -9,7 +9,7 @@ I'm a passionate **web developer**. I love programming and developing new projec
 <img align="right" alt="GIF Code" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif" style="border: 2px solid white; border-radius:5px" height="250" width="355"/>
 
 ## 😄 Facts
-- 🔥 I’m currently working on <a href="https://github.com/Zeatlan/faelivrin-game/" target="_blank">Faelivrin Game</a> (A pixel-art isometrical Tactical game made on Unity)
+- 🔥 I’m currently working on <a href="https://github.com/Zeatlan/faelivrin-game/" target="_blank">Faelivrin Game</a> (A pixel-art isometrical Tactical game made on Unity) <a href="https://discord.com/invite/au7ABUEWty">Discord officiel du jeu</a>
 - 🧑‍💻 I’m currently learning  **NestJS** and mastering **Vue.js**
 - 💼 If you have any project or ideas, do reach me by [email](mailto:salimalexo@gmail.com) :D
 - 💚 **Hobbies** : Programming, Animes & Mangas, learning languages, learning random facts about everything...
