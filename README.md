@@ -9,6 +9,5 @@
 <br><br>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Zeatlan&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeatlan&theme=radical&layout=compact" />
 </div>
